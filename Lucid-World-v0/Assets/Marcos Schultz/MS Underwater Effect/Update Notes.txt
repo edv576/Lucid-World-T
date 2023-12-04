@@ -1,0 +1,25 @@
+...............[Version 1.0.0]...............
+- New Asset
+.............................................
+
+
+
+...............[Version 2.0.0]...............
+- The documentation has been completely redone.
+- New scenario for the sample scene.
+- Bugs corrected in relation to the "near" the camera.
+- GUI has been removed.
+- Bugs fixed when there are no sounds associated with the variables.
+- The code was redone to support multiple water objects simultaneously.
+- Several improvements were made in relation to performance.
+.............................................
+
+
+
+...............[Version 2.1.0]...............
+- The documentation has been updated.
+- Some bugs have been fixed.
+- The 'OnValidate' function has been added to help you create new elements and make it easier to use the asset.
+- The control of the variation of effects was greatly improved. Now the effects are much more diverse and realistic.
+- The properties of the effects have been simplified and improved for ease of use.
+.............................................

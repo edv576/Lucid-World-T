@@ -1,0 +1,2 @@
+  29/08/2020
+- Headset recenters every time it goes sleep mode. The camera offset needs to changed so it coincides with the players height.
